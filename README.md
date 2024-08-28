@@ -1,73 +1,94 @@
-# 안녕하세요, AI와 웹 개발에 열정적인 엔지니어입니다! 👋
+# 👋 안녕하세요, AI와 스마트 기술로 세상을 변화시키는 개발자입니다!
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/AI-Enthusiast-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-Developer-blue?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Product-Manager-orange?style=for-the-badge&logo=product-hunt&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Innovation-Driver-orange?style=for-the-badge&logo=innovazione&logoColor=white" />
+</div>
 
 ## 🚀 About Me
 
-저는 AI, 웹 개발, 그리고 제품 관리에 깊은 관심을 가진 학부생입니다. 연세대학교에서 AI와 토목환경공학을 공부하며, 다양한 프로젝트와 인턴십을 통해 실무 경험을 쌓고 있습니다. 혁신적인 기술로 세상을 변화시키는 것이 제 꿈입니다.
+연세대학교 건설환경공학과에서 AI와 스마트 인프라를 연구하는 열정적인 개발자입니다. 다양한 기술을 융합하여 혁신적인 솔루션을 만들어내는 것이 제 목표입니다. AI, 웹/앱 개발, AR/VR, 그리고 IoT 기술을 활용하여 사회문제 해결에 기여하고 있습니다.
 
-## 🛠 Skills
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM-4285F4?style=flat-square&logo=Google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Front--End-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Back--End-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fusion_360-FF6600?style=flat-square&logo=Autodesk&logoColor=white"/>
-</p>
-
-## 💼 Experience
-
-### 🏫 Undergraduate Intern at Yonsei University
-*Jul 2024 - Present | Sinchon County, South Hwanghae, North Korea*
-- Smart Infrastructure Lab에서 AI와 토목환경공학을 접목한 연구 진행 중
-- LLM과 엔지니어링 기술 활용
-
-### 🖥 AI Startup University Program
-*Jun 2024 - Aug 2024 | Seoul, South Korea*
-- 서울시와 서울대학교가 주관하는 AI Hub Seoul의 스타트업 대상 AI 개발자 양성 과정 수료
-- Back-End 웹 개발 및 Python 프로그래밍 학습
-
-### 💼 Freelance Developer at InBody
-*Dec 2023 - Aug 2024 | Seoul, South Korea*
-- 스타트업 개발 및 Back-End 웹 개발 프로젝트 참여
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fusion360-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AR/VR-FF4154?style=flat-square&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+</div>
 
 ## 🌟 Projects
 
-*여기에 귀하의 주요 프로젝트나 성과를 추가할 수 있습니다.*
+### 🤖 AI & 챗봇 프로젝트
+1. **💧 스마트 홈 물관리 어시스턴트**
+   - 개발 중: 가정 물관리 챗봇 및 AR/VR 서비스
+   - 기술: Python, TensorFlow, Unity, AWS
 
-## 📊 GitHub Stats
+2. **❤️ 헬스케어 챗봇 어시스턴트**
+   - 완료: 혈압 측정 및 관리 도움 챗봇
+   - 기술: RAG, Python, Flask, MongoDB
 
-<p align="center">
+3. **🩺 AI 기반 질병 예측 모델**
+   - 연구 중: 혈압 데이터를 활용한 질병 예측 AI 모델
+   - 기술: CNN, GNN, KNN, 비지도/지도학습, Mamba
+
+### 📱 웹/앱 & 서비스 개발
+4. **📸 Snaps - 인플루언서 통합 관리 플랫폼**
+   - 기능: SNS 다채널 계정 통합관리 및 컨텐츠 변환 서비스
+   - 기술: Flask, MongoDB, RAG, AWS, Python
+
+5. **🏢 공뽕 - 스마트 공간 대여 시스템**
+   - 기획 중: 컨테이너 기반 공간 부족 문제 해결 서비스
+   - 기술: Flutter, Fusion360, AR/VR
+
+6. **🚗 AI 한문철 - 스마트 교통 과실 판단 시스템**
+   - 개발 중: 블랙박스 영상 기반 교통사고 과실 분석 AI
+   - 기술: 컴퓨터 비전, LLM, Python
+
+7. **👥 취미나라 - 시니어 취미 클래스 매칭 서비스**
+   - 완료: 노코드 기반 시니어 취미 활동 촉진 플랫폼
+   - 기술: 노코드 개발 툴, UX/UI 디자인
+
+### 🔬 연구 & 혁신 프로젝트
+8. **📊 인플루언서 채널 분석 AI**
+   - 개발 중: 소셜 미디어 채널 성과 분석 및 피드백 AI
+   - 기술: 머신러닝, 데이터 분석, Python
+
+9. **🕺 저비용 모션 캡처 시스템**
+   - 연구 중: 드론 센서를 활용한 혁신적 모션 캡처 기술
+   - 기술: IoT, 센서 융합, 컴퓨터 비전, 신호 처리
+
+## 🏆 Achievements
+- 🏫 연세대학교 AI 스마트인프라연구실 학부인턴
+- 🌟 KAIST IPCEO 영재교육원 11기 수료
+- 🌐 North Eastern University & KAIST 글로벌 벤처전략 프로그램 MVP
+- 🏅 서울AI hub x SNU AI 스타트업 유니버시티 우수수료
+- 🥉 연세대x포스텍 창업아이디어경진대회 장려상 수상
+
+## 📈 GitHub Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
-## 🕰 WakaTime Stats
+## 📫 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&layout=compact&theme=radical" alt="WakaTime Stats" />
-</p>
-
-## 📫 How to reach me
-
-<p align="center">
+<div align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
