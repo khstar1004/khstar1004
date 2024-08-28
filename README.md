@@ -29,43 +29,41 @@
 ### 🤖 AI & 챗봇 프로젝트
 1. **💧 스마트 홈 물관리 어시스턴트**
    - 개발 중: 가정 물관리 챗봇 및 AR/VR 서비스
-   - 기술: Python, TensorFlow, Unity, AWS
+   - 기술: Python, TensorFlow, PyTorch, FlaskAPI, React Native, AWS IoT, Unity AR Foundation
 
 2. **❤️ 헬스케어 챗봇 어시스턴트**
    - 완료: 혈압 측정 및 관리 도움 챗봇
-   - 기술: RAG, Python, Flask, MongoDB
+   - 기술: GPT-4, RAG, LangChain, Python, FastAPI, MongoDB Atlas, Redux, React Native
 
 3. **🩺 AI 기반 질병 예측 모델**
    - 연구 중: 혈압 데이터를 활용한 질병 예측 AI 모델
-   - 기술: CNN, GNN, KNN, 비지도/지도학습, Mamba
+   - 기술: PyTorch, TensorFlow, Scikit-learn
 
 ### 📱 웹/앱 & 서비스 개발
 4. **📸 Snaps - 인플루언서 통합 관리 플랫폼**
    - 기능: SNS 다채널 계정 통합관리 및 컨텐츠 변환 서비스
-   - 기술: Flask, MongoDB, RAG, AWS, Python
+   - 기술: FastAPI, MongoDB, Docker, Kubernetes, AWS EKS
 
 5. **🏢 공뽕 - 스마트 공간 대여 시스템**
    - 기획 중: 컨테이너 기반 공간 부족 문제 해결 서비스
-   - 기술: Flutter, Fusion360, AR/VR
+   - 기술: Flutter, Dart, Firebase, Google Cloud Platform, Autodesk Forge API,
 
 6. **🚗 AI 한문철 - 스마트 교통 과실 판단 시스템**
    - 개발 중: 블랙박스 영상 기반 교통사고 과실 분석 AI
-   - 기술: 컴퓨터 비전, LLM, Python
+   - 기술: OpenCV, YOLO v5, TensorFlow Object Detection API, PyTorch, RabbitMQ
 
 7. **👥 취미나라 - 시니어 취미 클래스 매칭 서비스**
    - 완료: 노코드 기반 시니어 취미 활동 촉진 플랫폼
-   - 기술: 노코드 개발 툴, UX/UI 디자인
-  
+   - 기술: Bubble.io, Google Analytics
+
 8. **📊 인플루언서 채널 분석 AI**
    - 개발 중: 소셜 미디어 채널 성과 분석 및 피드백 AI
-   - 기술: 머신러닝, 데이터 분석, Python
+   - 기술: Python, Pandas, Plotly, Dash, Scipy, NetworkX, BERT, Hugging Face Transformers
 
 ### 🔬 연구 & 혁신 프로젝트
-
-
 9. **🕺 저비용 모션 캡처 시스템**
    - 연구 중: 드론 센서를 활용한 혁신적 모션 캡처 기술
-   - 기술: IoT, 센서 융합, 컴퓨터 비전, 신호 처리
+   - 기술: ROS (Robot Operating System), OpenCV, PCL (Point Cloud Library), Kalman Filters, TensorRT, NVIDIA Jetson, DJI SDK
 
 ## 🏆 Achievements
 - 🏫 연세대학교 AI 스마트인프라연구실 학부인턴
