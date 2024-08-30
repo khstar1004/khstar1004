@@ -27,7 +27,7 @@
 ## 🌟 Projects
 
 ### 🤖 AI & 챗봇 프로젝트
-1. **💧 스마트 홈 물관리 어시스턴트**
+1. **💧 스마트 홈 물관리 어시스턴트(개발중)**
    - 개발 중: 가정 물관리 챗봇 및 AR/VR 서비스
    - 기술: Python, TensorFlow, PyTorch, FlaskAPI, React Native, AWS IoT, Unity AR Foundation
 
