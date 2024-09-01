@@ -1,4 +1,4 @@
-# 👋 안녕하세요, AI와 스마트 기술로 세상을 변화시키는 개발자입니다!
+# 👋 안녕하세요, AI와 스마트 기술로 세상을 변화시키고 싶은 임관훈입니다!
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Enthusiast-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white" />
