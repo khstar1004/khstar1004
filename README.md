@@ -1,141 +1,132 @@
-# AI ChatBot, Embodied Agent, XR 개발자 임관훈입니다
+아래는 기존 내용은 그대로 유지하면서, 요청하신 추가 내용을 적절한 위치에 삽입한 최종 README입니다.
 
+---
 
-  
-  
-  
+# AI ChatBot, Embodied agent, XR에 관심이 있는 임관훈입니다!
 
+<div align="center">
+  <img src="https://img.shields.io/badge/AI-Enthusiast-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Innovation-Driver-orange?style=for-the-badge&logo=innovazione&logoColor=white" />
+</div>
 
-## 소개
+## About Me
 
 연세대학교 건설환경공학과에서 AI를 연구하는 개발자입니다. 현재 연세대학교 LangAGILAB 소속 AI 연구자로서, Embodied agent의 Auto RL 관련 연구를 진행하고 있으며, AI chatbot 관련 스타트업을 운영하고 있습니다. 다양한 기술을 융합하여 혁신적인 솔루션을 만들어내는 것이 제 목표입니다. AI, 웹/앱 개발, AR/VR을 활용하여 사회문제 해결에 기여하고 있습니다.
 
-
-  
-
-
-## 연구 분야
-
-- **Embodied Agent 개발**: Auto RL 기반 지능형 에이전트 연구
-- **AI Chatbot 시스템**: 대화형 AI 시스템 설계 및 개발
+### Research Focus
+- **Embodied Agent Development**: Auto RL 기반 지능형 에이전트 연구
+- **AI Chatbot Systems**: 대화형 AI 시스템 설계 및 개발
 - **Healthcare AI**: 혈압 예측 및 의료 보조 시스템 개발
 
-## 기술 스택
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fusion360-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AR/VR-FF4154?style=flat-square&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+</div>
+
+## 🌟 Projects
+
+### 🤖 AI & 챗봇 프로젝트
+1. **💧 스마트 홈 물관리 어시스턴트**
+   - 개발 중: 가정 물관리 챗봇 및 AR/VR 서비스
+   - 기술: Python, TensorFlow, PyTorch, FlaskAPI, React Native, AWS IoT, Unity AR Foundation
+
+2. **❤️ 헬스케어 챗봇 어시스턴트**
+   - 완료: 혈압 측정 및 관리 도움 챗봇
+   - 기술: GPT-4, RAG, LangChain, Python, FastAPI, MongoDB Atlas, Redux, React Native
+
+3. **🩺 AI 기반 질병 예측 모델**
+   - 연구 중: 혈압 데이터를 활용한 질병 예측 AI 모델
+   - 기술: PyTorch, TensorFlow, Scikit-learn
+
+4. **🛍️ shoptalk - 소상공인 챗봇 서비스**
+   - 진행 중: 소상공인을 위한 챗봇 서비스 개발
+   - 기술: TypeScript, Next.js, Supabase, Vercel, LangChain (RAG 멀티 에이전트 구현)
+
+### 📱 웹/앱 & 서비스 개발
+4. **📸 Snaps - 인플루언서 통합 관리 플랫폼**
+   - 기능: SNS 다채널 계정 통합관리 및 컨텐츠 변환 서비스
+   - 기술: FastAPI, MongoDB, Docker, Kubernetes, AWS EKS
+
+5. **🏢 공뽕 - 스마트 공간 대여 시스템**
+   - 기획 중: 컨테이너 기반 공간 부족 문제 해결 서비스
+   - 기술: Flutter, Dart, Firebase, Google Cloud Platform, Autodesk Forge API
+
+6. **🚗 AI 한문철 - 스마트 교통 과실 판단 시스템**
+   - 개발 중: 블랙박스 영상 기반 교통사고 과실 분석 AI
+   - 기술: OpenCV, YOLO v5, TensorFlow Object Detection API, PyTorch, RabbitMQ
+
+7. **👥 취미나라 - 시니어 취미 클래스 매칭 서비스**
+   - 완료: 노코드 기반 시니어 취미 활동 촉진 플랫폼
+   - 기술: Bubble.io, Google Analytics
+
+8. **📊 인플루언서 채널 분석 AI**
+   - 개발 중: 소셜 미디어 채널 성과 분석 및 피드백 AI
+   - 기술: Python, Pandas, Plotly, Dash, Scipy, NetworkX, BERT, Hugging Face Transformers
+
+### 🔬 연구 & 혁신 프로젝트
+9. **🕺 저비용 모션 캡처 시스템**
+   - 연구 중: 드론 센서를 활용한 혁신적 모션 캡처 기술
+   - 기술: ROS (Robot Operating System), OpenCV, PCL (Point Cloud Library), Kalman Filters, TensorRT, NVIDIA Jetson, DJI SDK
+
+10. **🚶 이주민 예측 AI 모델**
+    - 연구 중: 머신러닝 기반 프레임워크를 활용하여 인구 이동, 이주 지속 기간, 이주 경로를 예측하는 AI 모델 개발
+    - 기술: 
+      - **Ensemble Models**: Random Forest, Gradient Boosting, XGBoost, LightGBM, Support Vector Regression (SVR)
+      - **LLM 기반 보고서 생성**: 예측 결과를 분석하여 실행 가능한 인사이트 제공
+      - **기타**: 데이터 전처리, 모델 최적화, 결과 시각화, 직관적인 웹 기반 인터페이스
 
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+## 🏆 Achievements
+- 🏆 연세대학교 Genai 활용 경진대회 대상
+- 🏥 투비닥터 의료창업경진대회 최종 4위
+- 🌟 서울 AI hub 영클럽 소속 및 배너피칭 참가
+- 🏫 연세대학교 AI 스마트인프라연구실 학부인턴
+- 🎓 KAIST IPCEO 영재교육원 11기 수료
+- 🌐 North Eastern University & KAIST 글로벌 벤처전략 프로그램 MVP
+- 🎯 서울AI hub x SNU AI 스타트업 유니버시티 우수수료
+- 🥉 연세대x포스텍 창업아이디어경진대회 장려상 수상
 
-
-## 프로젝트
-
-### 진행 중인 프로젝트
-
-
-  
-    
-      ShopTalk - 소상공인 AI 챗봇
-      소상공인분들을 위한 맞춤형 챗봇 서비스 개발 중
-      기술 스택: TypeScript, Next.js, Supabase, Vercel, LangChain
-      핵심 기능: RAG 기반 멀티 에이전트 구현, 소상공인 맞춤형 정보 제공
-    
-    
-      Integrated Migration Prediction System
-      
-      인구 이동 패턴을 예측하는 AI 모델 개발
-      기술 스택: Python, TensorFlow, RandomForest, LightGBM, XGBoost
-      특징: 앙상블 방법론 활용, 경로 최적화 및 자원 계획 수립 지원
-    
-  
-
-
-### AI & 챗봇 프로젝트
-
-
-  
-    
-      스마트 홈 물관리 어시스턴트
-      가정 물관리 챗봇 및 AR/VR 서비스 개발 중
-      기술 스택: Python, TensorFlow, PyTorch, FlaskAPI, React Native, AWS IoT, Unity AR Foundation
-    
-    
-      헬스케어 챗봇 어시스턴트
-      혈압 측정 및 관리 도움 챗봇
-      기술 스택: GPT-4, RAG, LangChain, Python, FastAPI, MongoDB Atlas, Redux, React Native
-    
-  
-
-
-### 웹/앱 & 서비스 개발
-
-
-  
-    
-      Snaps - 인플루언서 통합 관리 플랫폼
-      SNS 다채널 계정 통합관리 및 컨텐츠 변환 서비스
-      기술 스택: FastAPI, MongoDB, Docker, Kubernetes, AWS EKS
-    
-    
-      AI 한문철 - 교통 과실 판단 시스템
-      블랙박스 영상 기반 교통사고 과실 분석 AI
-      기술 스택: OpenCV, YOLO v5, TensorFlow Object Detection API, PyTorch, RabbitMQ
-    
-  
-
-
-## 수상 및 경력
-
-
-  
-    
-      🏆 연세대학교 Genai 활용 경진대회 대상
-      🏥 투비닥터 의료창업경진대회 최종 4위
-    
-    
-      🌟 서울 AI hub 영클럽 소속 및 배너피칭 참가
-      🎓 KAIST IPCEO 영재교육원 11기 수료
-    
-    
-      🌐 North Eastern University & KAIST 글로벌 벤처전략 프로그램 MVP
-      🎯 서울AI hub x SNU AI 스타트업 유니버시티 우수수료
-    
-  
-
-
-## 경력
-
-- **LangAGILAB, 연세대학교**
+### 💼 Professional Experience
+- **LangAGILAB, Yonsei University**
   - AI 연구자
   - Embodied Agent 및 대규모 언어 모델 연구
-
 - **인바디 헬스케어**
   - 프리랜서 개발자
   - 의료 데이터 분석 및 AI 솔루션 개발
 
-## 연락처
+## 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-  
-    
-  
-  
-    
-  
-  
-    
-  
-  
-    
-  
+## 📫 Connect with Me
 
+<div align="center">
+  <a href="mailto:khstar1004@yonsei.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%EA%B4%80%ED%9B%88-%EC%9E%84-052a75281/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/im9route"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/im9route"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.threads.net/@im9route"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
+
+---
+
+이와 같이 기존 내용을 변경하지 않고, 아래 첨부 자료의 내용과 진행 중인 **shoptalk** 프로젝트를 추가하였습니다.
