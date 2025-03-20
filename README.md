@@ -16,7 +16,7 @@
 
 ## 🧠 Professional Profile
 
-연세대학교 건설환경공학과에서 인공지능을 연구하는 개발자입니다. 현재 연세대학교 LangAGILAB 소속 AI 연구자로서, Embodied Intelligence와 Auto Reinforcement Learning 관련 심층 연구를 진행하고 있으며, 대화형 AI 시스템 관련 스타트업을 운영하고 있습니다. 다양한 기술 도메인을 융합하여 복잡한 문제에 대한 혁신적 솔루션을 구축하는 데 전념하고 있습니다. AI, 웹/앱 개발, AR/VR 기술을 활용하여 실질적인 사회문제 해결에 기여하고 있습니다.
+연세대학교 건설환경공학과에서 인공지능을 연구하는 개발자입니다. 현재 연세대학교 LangAGILAB 소속 AI 연구자로서, Embodied Intelligence와 Auto Reinforcement Learning 관련 심층 연구를 진행하고 있으며, 외주개발 스타트업을 운영하고 있습니다. 다양한 기술 도메인을 융합하여 복잡한 문제에 대한 혁신적 솔루션을 구축하는 데 전념하고 있습니다. AI, 웹/앱 개발, AR/VR 기술을 활용하여 실질적인 사회문제 해결에 기여하고 있습니다.
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub streak"/>
@@ -163,29 +163,86 @@
 ## 🏆 Academic & Professional Recognition
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏆-연세대학교_Generative_AI_Innovation_Award-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🏥-Healthcare_Innovation_Contest_Finalist-48C9B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌟-Seoul_AI_Hub_Young_Innovators_Program-5DADE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🏫-Smart_Infrastructure_Research_Laboratory_Fellow-A569BD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎓-KAIST_IPCEO_Advanced_Program_Graduate-EC7063?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌐-Global_Venture_Strategy_Program_MVP-5499C7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎯-Seoul_AI_Startup_University_Excellence_Award-52BE80?style=for-the-badge"/>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+    <a href="#">
+      <img src="https://img.shields.io/badge/🏆_연세대학교_Generative_AI_Innovation_Award-FFD700?style=for-the-badge&labelColor=black"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/🏥_Healthcare_Innovation_Contest_Finalist-48C9B0?style=for-the-badge&labelColor=black"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/🌟_Seoul_AI_Hub_Young_Innovators_Program-5DADE2?style=for-the-badge&labelColor=black"/>
+    </a>
+  </div>
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <a href="#">
+      <img src="https://img.shields.io/badge/🏫_Smart_Infrastructure_Research_Laboratory_Fellow-A569BD?style=for-the-badge&labelColor=black"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/🎓_KAIST_IPCEO_Advanced_Program_Graduate-EC7063?style=for-the-badge&labelColor=black"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/🌐_Global_Venture_Strategy_Program_MVP-5499C7?style=for-the-badge&labelColor=black"/>
+    </a>
+  </div>
 </div>
 
-### 💼 Professional Affiliations
+## 💼 Professional Experience
 
 <div align="center">
-  <table>
+  <img src="https://64.media.tumblr.com/d9ba01be6ea3019ed55b00373031da7e/85cc80514e346f32-71/s540x810/3e5a53a72b10062e2f7b8e461a4cc3350a62754e.gifv" width="100%" height="5px"/>
+</div>
+
+<div>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/LangAGILAB-Yonsei%20University-blue?style=for-the-badge&logo=university&logoColor=white"/>
-        <p>Research Scientist</p>
-        <p>Embodied Intelligence & Large Language Model Integration Research</p>
+      <td width="80px" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/InBody-Healthcare%20Innovation-green?style=for-the-badge&logo=health&logoColor=white"/>
-        <p>AI Systems Architect</p>
-        <p>Medical Data Analytics & Predictive Healthcare Solutions</p>
+      <td>
+        <h3>Research Scientist | LangAGILAB, Yonsei University</h3>
+        <p>Leading research initiatives focused on the convergence of embodied intelligence systems and large language models. Developing novel architectures for autonomous reinforcement learning in physical environments.</p>
+        <p><b>Core Focus:</b> Agent Foundations, Multi-modal Perception, Emerging Capabilities in LLMs</p>
+      </td>
+    </tr>
+  </table>
+  
+  <div align="center">
+    <img src="https://64.media.tumblr.com/d9ba01be6ea3019ed55b00373031da7e/85cc80514e346f32-71/s540x810/3e5a53a72b10062e2f7b8e461a4cc3350a62754e.gifv" width="100%" height="3px"/>
+  </div>
+  
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; margin-top: 15px;">
+    <tr>
+      <td width="80px" align="center" valign="middle">
+        <img src="https://cdn-icons-png.flaticon.com/512/2497/2497101.png" width="60" height="60"/>
+      </td>
+      <td>
+        <h3>AI Systems Architect | InBody Healthcare Innovation</h3>
+        <p>Architecting intelligent health monitoring solutions incorporating advanced ML algorithms for physiological data analysis and predictive diagnostics. Pioneering the development of embedded AI systems for real-time health analytics.</p>
+        <p><b>Key Achievements:</b> Biomarker Detection System, Predictive Analytics Framework, Real-time Monitoring Infrastructure</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <table width="100%" style="border-collapse: separate; border-spacing: 15px 0; margin-bottom: 20px;">
+    <tr>
+      <td align="center" width="33%" style="border: 1px solid #333; border-radius: 10px; padding: 15px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/3406/3406989.png" width="40" height="40"/><br>
+        <b>Research Publications</b><br>
+        <span style="font-size: 24px; font-weight: bold;">12+</span>
+      </td>
+      <td align="center" width="33%" style="border: 1px solid #333; border-radius: 10px; padding: 15px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/3500/3500833.png" width="40" height="40"/><br>
+        <b>Patents Filed</b><br>
+        <span style="font-size: 24px; font-weight: bold;">3</span>
+      </td>
+      <td align="center" width="33%" style="border: 1px solid #333; border-radius: 10px; padding: 15px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="40" height="40"/><br>
+        <b>Industry Partners</b><br>
+        <span style="font-size: 24px; font-weight: bold;">8+</span>
       </td>
     </tr>
   </table>
