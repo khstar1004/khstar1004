@@ -1,7 +1,3 @@
-아래는 기존 내용은 그대로 유지하면서, 요청하신 추가 내용을 적절한 위치에 삽입한 최종 README입니다.
-
----
-
 # AI ChatBot, Embodied agent, XR에 관심이 있는 임관훈입니다!
 
 <div align="center">
