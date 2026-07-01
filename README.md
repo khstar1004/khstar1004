@@ -101,7 +101,7 @@ I do not treat AI as just a model. I design AI as an **operational intelligence 
 ### Defense AI · Republic of Korea Army AI Center
 
 Contributed to AI systems for military operations, intelligence workflows, data fusion, operational analytics, and AI-assisted decision support.
-
+🏆
 - Contributed to one of the first AI-enabled demonstrations in an **Army firepower training** context
 - Received a **Capital Corps Commander Commendation** from a three-star command
 - Awarded by the **Chief of Staff of the Army** for AI innovation and system development
