@@ -2,7 +2,7 @@
 
 <!-- HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,45:7C3AED,100:EC4899&text=Gwanhoon%20Im&fontColor=FFFFFF&fontSize=58&fontAlignY=37&desc=AI%20Researcher%20%C2%B7%20Full-Stack%20Builder%20%C2%B7%20Startup%20CTO&descSize=18&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0F172A,70:1E3A8A,100:7C3AED&text=Gwanhoon%20Im&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=Operational%20AI%20Systems%20%C2%B7%20Defense%20Intelligence%20%C2%B7%20LLM%20Agents%20%C2%B7%20Startup%20CTO&descSize=17&descAlignY=58" />
 
 <br/>
 
@@ -13,8 +13,16 @@
 
 <br/><br/>
 
-<b>Building AI systems that move from research papers to real-world operations.</b><br/>
-<sub>Defense Intelligence · Web Agents · LLM Systems · Productized AI · Digital Twin / XR</sub>
+<b>Building AI systems that survive contact with the real world.</b><br/>
+<sub>From research prototypes to field demonstrations, decision-support systems, and production-grade AI products.</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Republic%20of%20Korea%20Army-AI%20Center-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Yonsei%20University-AI%20Researcher-003876?style=flat-square" />
+<img src="https://img.shields.io/badge/Defense%20AI-Field%20Demonstration-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/IITP%20President%20Award-Excellence%20Award-B45309?style=flat-square" />
+<img src="https://img.shields.io/badge/ShopTalk-CTO%20%7C%20%E2%82%A975M-7C3AED?style=flat-square" />
 
 </div>
 
@@ -24,26 +32,26 @@
 <tr>
 <td width="58%" valign="top">
 
-## 👋 About Me
+## About Me
 
-I am an AI researcher and full-stack builder from **Yonsei University**, focused on turning intelligent models into reliable, deployable systems.
+I am an **AI researcher and full-stack builder from Yonsei University**, focused on turning intelligent models into reliable systems that operate beyond demos.
 
-My work spans **mission-critical defense intelligence platforms**, **LLM-based web agents**, **multi-agent workflow automation**, and **real-world decision-support systems**. I have contributed to Korean defense AI initiatives at the **Army AI Center**, conducted embodied intelligence research at **LangAGILAB**, and currently build product-grade AI systems that connect research, engineering, and business execution.
+My work spans **defense intelligence platforms**, **LLM agents**, **RAG-based applications**, **multi-agent workflows**, **computer vision**, and **AI-assisted decision-support systems**. At the **Republic of Korea Army AI Center**, I have contributed to AI systems for military operations, data fusion, operational analytics, and field-oriented demonstrations.
 
-Rather than treating AI as a standalone model, I design it as an **end-to-end intelligence layer**: data ingestion, reasoning, automation, interface, deployment, and operational feedback.
+I do not treat AI as just a model. I design AI as an **operational intelligence layer**: data ingestion, reasoning, automation, interface, deployment, monitoring, and feedback from real users.
 
 </td>
 <td width="42%" valign="top">
 
-## ⚡ Snapshot
+## Snapshot
 
 | Area | Focus |
 |---|---|
-| 🛡️ Defense AI | Mission data fusion, decision intelligence |
-| 🤖 LLM Agents | RAG, web agents, multi-agent workflows |
-| 🧠 Research | Web agents, embodied AI, RL, multimodal systems |
-| 🚀 Startup | CTO, product architecture, fundraising |
-| 🧩 Engineering | Full-stack, cloud, Kubernetes, MLOps |
+| Defense AI | Mission data fusion, command decision support |
+| LLM Systems | RAG, web agents, multi-agent orchestration |
+| Research | Web agents, embodied AI, RL, multimodal systems |
+| Product | Startup CTO, product architecture, GTM execution |
+| Engineering | FastAPI, Next.js, Docker, Kubernetes, MLOps |
 
 </td>
 </tr>
@@ -53,92 +61,105 @@ Rather than treating AI as a standalone model, I design it as an **end-to-end in
 
 <div align="center">
 
-## 🧭 Current Narrative
+## Recent Impact
 
 </div>
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/01-Research-7C3AED?style=for-the-badge" /><br/><br/>
-<b>AI Research</b><br/>
-<sub>Web agents, embodied intelligence, reinforcement learning, multimodal systems</sub>
+<td width="25%" align="center" valign="top">
+<h3>Defense AI</h3>
+<b>Army AI Center</b><br/>
+<sub>Built and deployed AI systems for military operations, intelligence workflows, and decision-support environments.</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/02-Systems-0EA5E9?style=for-the-badge" /><br/><br/>
-<b>System Design</b><br/>
-<sub>RAG pipelines, agent orchestration, workflow automation, data platforms</sub>
+<td width="25%" align="center" valign="top">
+<h3>Field AI</h3>
+<b>Army Firepower Training</b><br/>
+<sub>Contributed to one of the first AI-enabled demonstrations in an Army firepower training context, moving AI from prototype to field use.</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/03-Deployment-10B981?style=for-the-badge" /><br/><br/>
-<b>Production AI</b><br/>
-<sub>FastAPI, Next.js, cloud deployment, Docker, Kubernetes, monitoring</sub>
+<td width="25%" align="center" valign="top">
+<h3>Recognition</h3>
+<b>3-Star Commendation</b><br/>
+<sub>Received a commendation from the Commander of the Capital Corps for AI-based military innovation.</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/04-Impact-EC4899?style=for-the-badge" /><br/><br/>
-<b>Real-World Impact</b><br/>
-<sub>Defense intelligence, startup products, decision-support interfaces</sub>
+<td width="25%" align="center" valign="top">
+<h3>Innovation</h3>
+<b>Government Innovation</b><br/>
+<sub>Recognized in the Ministry of National Defense Government Innovation Best Practice program and advanced to the Best-of-the-Best round.</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🏆 Selected Highlights
+## Selected Highlights
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 Hugging Face Papers #1
+### Defense AI · Republic of Korea Army AI Center
 
-**Co-author of “Web-Shepherd: Advancing PRMs for Reinforcing Web Agents”**  
-Ranked **#1 on Hugging Face Papers**.
+Contributed to AI systems for military operations, intelligence workflows, data fusion, operational analytics, and AI-assisted decision support.
 
-<a href="https://arxiv.org/abs/2505.15277"><img src="https://img.shields.io/badge/arXiv-2505.15277-B31B1B?style=flat-square&logo=arxiv&logoColor=white" /></a>
-<a href="https://huggingface.co/papers/2505.15277"><img src="https://img.shields.io/badge/HuggingFace-Papers%20Page-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /></a>
+- Contributed to one of the first AI-enabled demonstrations in an **Army firepower training** context
+- Received a **Capital Corps Commander Commendation** from a three-star command
+- Awarded by the **Chief of Staff of the Army** for AI innovation and system development
+- Received the **Excellence Award** at the **2026 Defense AI Application Idea Competition** — IITP President Award
+- Received an **Encouragement Award** in the Ministry of National Defense Government Innovation Best Practice program
+- Advanced to the **Government Innovation Best Practice Best-of-the-Best** round
 
-**Keywords:** Web Agents, Process Reward Models, Reinforcement Learning, Agent Evaluation
+<img src="https://img.shields.io/badge/Domain-Defense%20AI-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Decision%20Intelligence-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/Recognition-3--Star%20Commendation-B45309?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 ShopTalk — Startup CTO
+### Web-Shepherd · Hugging Face Papers #1
 
-**CTO of ShopTalk**, a shopping agent / SME commerce intelligence platform.  
-Selected in the **1st round of Yonsei University’s 예비창업패키지** and secured **₩75M investment / funding**.
+Co-author of **“Web-Shepherd: Advancing PRMs for Reinforcing Web Agents”**, a research project focused on process reward models, web-agent reasoning, and agent evaluation.
 
-<img src="https://img.shields.io/badge/Role-CTO-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Funding-%E2%82%A975M-10B981?style=flat-square" />
-<img src="https://img.shields.io/badge/Domain-Shopping%20Agent-EC4899?style=flat-square" />
+- Ranked **#1 on Hugging Face Papers**
+- Focused on improving how web agents reason, act, and receive feedback
+- Research direction: PRMs, reinforcement learning, web automation, agent evaluation
 
-**Keywords:** Conversational Commerce, Agentic Search, RAG, Multi-Agent Workflows, Product Strategy
+<a href="https://arxiv.org/abs/2505.15277"><img src="https://img.shields.io/badge/arXiv-2505.15277-B31B1B?style=flat-square&logo=arxiv&logoColor=white" /></a>
+<a href="https://huggingface.co/papers/2505.15277"><img src="https://img.shields.io/badge/HuggingFace-Papers%20%231-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /></a>
+<img src="https://img.shields.io/badge/Topic-Web%20Agents-7C3AED?style=flat-square" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Army AI Center
+### ShopTalk · Startup CTO
 
-Participated in a **Korean Palantir-style defense intelligence platform** project, contributing to data fusion, operational analytics, and AI-assisted decision support.
+CTO of **ShopTalk**, a shopping agent and SME commerce intelligence platform that connects conversational commerce, RAG, product search, and workflow automation.
 
-<img src="https://img.shields.io/badge/Domain-Defense%20AI-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Recognition-Chief%20of%20Staff%20Award-F59E0B?style=flat-square" />
+- Led product architecture and full-stack AI system design
+- Selected through Yonsei University’s startup program
+- Helped secure **₩75M** in funding and support
+- Built toward practical AI adoption for small and medium-sized commerce businesses
 
-**Keywords:** Mission Data Platform, Decision Intelligence, Operational Analytics
+<img src="https://img.shields.io/badge/Role-CTO-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Funding-%E2%82%A975M-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/Domain-Agentic%20Commerce-EC4899?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 LangAGILAB Research
+### LangAGILAB · AI Research
 
 Former AI researcher at **LangAGILAB, Yonsei University**, exploring embodied intelligence, LLM-based agents, autonomous reinforcement learning, and multimodal perception.
 
+- Embodied intelligence and LLM-agent research
+- Reinforcement learning and autonomous decision-making
+- Multimodal perception and agentic workflows
+
 <img src="https://img.shields.io/badge/Research-Embodied%20AI-0EA5E9?style=flat-square" />
 <img src="https://img.shields.io/badge/Focus-LLM%20Agents-7C3AED?style=flat-square" />
-
-**Keywords:** Embodied Agents, LLM in Robotics, Auto-RL, Multimodal Systems
+<img src="https://img.shields.io/badge/Area-Multimodal%20Systems-111827?style=flat-square" />
 
 </td>
 </tr>
@@ -146,7 +167,36 @@ Former AI researcher at **LangAGILAB, Yonsei University**, exploring embodied in
 
 ---
 
-## 🛠️ Technology Stack
+## Operating Thesis
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+<img src="https://img.shields.io/badge/01-Research-7C3AED?style=for-the-badge" /><br/><br/>
+<b>Understand the frontier</b><br/>
+<sub>LLMs, agents, PRMs, multimodal systems, embodied intelligence</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://img.shields.io/badge/02-Systemize-0EA5E9?style=for-the-badge" /><br/><br/>
+<b>Turn models into systems</b><br/>
+<sub>RAG pipelines, agent orchestration, workflows, data platforms</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://img.shields.io/badge/03-Deploy-10B981?style=for-the-badge" /><br/><br/>
+<b>Make it operational</b><br/>
+<sub>FastAPI, Next.js, Docker, Kubernetes, cloud, monitoring</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://img.shields.io/badge/04-Validate-B45309?style=for-the-badge" /><br/><br/>
+<b>Prove field impact</b><br/>
+<sub>Decision support, defense workflows, real users, operational feedback</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## Technology Stack
 
 <div align="center">
 
@@ -154,10 +204,11 @@ Former AI researcher at **LangAGILAB, Yonsei University**, exploring embodied in
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
 <br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20Agents-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Multi--Agent%20Systems-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 
 <br/><br/>
 
@@ -168,6 +219,7 @@ Former AI researcher at **LangAGILAB, Yonsei University**, exploring embodied in
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <br/><br/>
 
@@ -178,50 +230,55 @@ Former AI researcher at **LangAGILAB, Yonsei University**, exploring embodied in
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" />
 <img src="https://img.shields.io/badge/Dockerized%20AI%20Services-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/MLOps-111827?style=for-the-badge" />
 
 <br/><br/>
 
-### XR / Simulation / Digital Twin
+### Simulation / Digital Twin / Interface
 
 <img src="https://skillicons.dev/icons?i=unity,figma" />
 <br/>
 <img src="https://img.shields.io/badge/Digital%20Twin-0EA5E9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/XR%20Interface-EC4899?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Simulation-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Decision%20Interface-B45309?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧩 Portfolio Map
+## Portfolio Map
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🛡️ Defense Intelligence
+### Defense Intelligence
 
-- Korean Palantir-style defense AI platform
 - Mission data fusion and visualization
 - AI-assisted command decision support
 - Operational analytics workflows
+- Firepower training AI demonstration
+- Government innovation case development
 
 </td>
 <td width="33%" valign="top">
 
-### 🤖 Agentic AI
+### Agentic AI
 
 - Web agents and PRM research
 - RAG-based service automation
-- Multi-agent commerce workflows
+- Multi-agent workflow design
 - LLM-based decision assistants
+- Agent evaluation and feedback loops
 
 </td>
 <td width="33%" valign="top">
 
-### 🚀 Productized AI
+### Productized AI
 
 - ShopTalk shopping agent platform
+- SME commerce intelligence workflows
 - Healthcare intelligence assistant
 - Creator analytics platform
 - Smart water management / XR interface
@@ -232,25 +289,24 @@ Former AI researcher at **LangAGILAB, Yonsei University**, exploring embodied in
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ ShopTalk
+### Army AI Center · Defense Intelligence Systems
 
-A conversational shopping agent and SME commerce intelligence platform designed to help small businesses automate customer interaction, product discovery, and sales workflows.
+AI systems for military operations, intelligence workflows, operational analytics, and decision-support environments.
 
-**Role:** CTO  
-**Recognition:** Yonsei 예비창업패키지 1st-round selection  
-**Funding:** ₩75M  
-**Stack:** TypeScript, Next.js, Supabase, Vercel, LangChain, RAG, Multi-Agent Architecture
+**Focus:** Defense AI, mission data fusion, operational intelligence, AI-assisted decision support  
+**Recognition:** Chief of Staff Award, Capital Corps Commander Commendation, IITP President Award  
+**Note:** Sensitive operational details intentionally abstracted.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Web-Shepherd
+### Web-Shepherd
 
 Research contribution to process reward models for reinforcing web agents, focused on improving agent reasoning and evaluation in web environments.
 
@@ -263,17 +319,19 @@ Research contribution to process reward models for reinforcing web agents, focus
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Korean Palantir-style Defense AI Platform
+### ShopTalk
 
-A mission-critical intelligence platform for defense data fusion, operational analytics, and AI-assisted decision-making.
+A conversational shopping agent and SME commerce intelligence platform designed to help small businesses automate customer interaction, product discovery, and sales workflows.
 
-**Recognition:** Chief of Staff Commendation  
-**Focus:** Defense AI, Mission Data Platform, Decision Intelligence
+**Role:** CTO  
+**Recognition:** Yonsei startup program selection  
+**Funding / Support:** ₩75M  
+**Stack:** TypeScript, Next.js, Supabase, Vercel, LangChain, RAG, Multi-Agent Architecture
 
 </td>
 <td width="50%" valign="top">
 
-### ❤️ Healthcare Intelligence Assistant
+### Healthcare Intelligence Assistant
 
 An AI-powered health monitoring and management assistant for cardiovascular wellness and predictive analytics.
 
@@ -284,7 +342,7 @@ An AI-powered health monitoring and management assistant for cardiovascular well
 <tr>
 <td width="50%" valign="top">
 
-### 💧 Smart Water Management System
+### Smart Water Management System
 
 An intelligent home water-management platform with XR interfaces and real-time monitoring.
 
@@ -293,9 +351,9 @@ An intelligent home water-management platform with XR interfaces and real-time m
 </td>
 <td width="50%" valign="top">
 
-### 📸 Creator Analytics Platform
+### Creator Analytics Platform
 
-A digital content analytics and optimization platform for creators.
+A digital content analytics and optimization platform for creators, combining backend analytics, cloud deployment, and creator-facing product design.
 
 **Stack:** FastAPI, MongoDB, Docker, Kubernetes, AWS EKS
 
@@ -305,7 +363,7 @@ A digital content analytics and optimization platform for creators.
 
 ---
 
-## 🧠 Research Interests
+## Research Interests
 
 <div align="center">
 
@@ -315,7 +373,7 @@ A digital content analytics and optimization platform for creators.
 <td align="center" width="20%"><b>Embodied AI</b><br/><sub>LLM + physical systems</sub></td>
 <td align="center" width="20%"><b>Defense AI</b><br/><sub>mission intelligence</sub></td>
 <td align="center" width="20%"><b>Agentic Commerce</b><br/><sub>shopping agents</sub></td>
-<td align="center" width="20%"><b>Digital Twin</b><br/><sub>XR, simulation</sub></td>
+<td align="center" width="20%"><b>Operational AI</b><br/><sub>deployment, monitoring, feedback</sub></td>
 </tr>
 </table>
 
@@ -323,36 +381,41 @@ A digital content analytics and optimization platform for creators.
 
 ---
 
-## 📈 Impact Snapshot
+## Impact Snapshot
 
 <table>
 <tr>
-<td align="center" width="25%">
-<h3>🏆</h3>
-<b>Hugging Face Papers #1</b><br/>
-<sub>Co-authored Web-Shepherd</sub>
+<td align="center" width="20%">
+<h3>HF #1</h3>
+<b>Web-Shepherd</b><br/>
+<sub>Co-authored web-agent research</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <h3>₩75M</h3>
-<b>Funding Secured</b><br/>
+<b>Funding / Support</b><br/>
 <sub>ShopTalk CTO</sub>
 </td>
-<td align="center" width="25%">
-<h3>🛡️</h3>
-<b>Defense AI</b><br/>
-<sub>Army AI Center project</sub>
+<td align="center" width="20%">
+<h3>3-Star</h3>
+<b>Commendation</b><br/>
+<sub>Capital Corps Commander</sub>
 </td>
-<td align="center" width="25%">
-<h3>☸️</h3>
-<b>Kubernetes Stack</b><br/>
-<sub>Cloud-native AI deployment</sub>
+<td align="center" width="20%">
+<h3>IITP</h3>
+<b>President Award</b><br/>
+<sub>2026 Defense AI Competition</sub>
+</td>
+<td align="center" width="20%">
+<h3>MND</h3>
+<b>Innovation Case</b><br/>
+<sub>Best-of-the-Best finalist</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📫 Contact
+## Contact
 
 <div align="center">
 
@@ -364,6 +427,6 @@ A digital content analytics and optimization platform for creators.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EC4899,45:7C3AED,100:0EA5E9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:1E3A8A,100:020617" />
 
 </div>
